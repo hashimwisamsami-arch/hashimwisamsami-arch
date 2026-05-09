@@ -17,7 +17,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🔨 Languages and Tools:
 
-##Frontend:
+## 🎨 Frontend Stack
 
 <a href="https://nextjs.org/" target="_blank">
   <img align="left" alt="Next.js" height="42px"
@@ -53,6 +53,39 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   <img align="left" alt="Framer Motion" height="42px"
   src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg">
 </a>
+
+## ⚙️ Backend
+
+<a href="https://nodejs.org" target="_blank">
+  <img align="left" alt="Node.js" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+  <img align="left" alt="Express.js" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+</a>
+
+<a href="https://www.prisma.io/" target="_blank">
+  <img align="left" alt="Prisma" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank">
+  <img align="left" alt="REST API" height="42px"
+  src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png">
+</a>
+
+<a href="https://next-auth.js.org/" target="_blank">
+  <img align="left" alt="NextAuth" height="42px"
+  src="https://next-auth.js.org/img/logo/logo-sm.png">
+</a>
+
+<a href="https://jwt.io/" target="_blank">
+  <img align="left" alt="JWT" height="42px"
+  src="https://jwt.io/img/pic_logo.svg">
+</a>
+
 <br>
 
 
