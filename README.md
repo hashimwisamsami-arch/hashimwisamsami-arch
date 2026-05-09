@@ -53,7 +53,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   <img align="left" alt="Framer Motion" height="42px"
   src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg">
 </a>
-<br/>
+<br>
 ## ⚙️ Backend
 
 <a href="https://nodejs.org" target="_blank">
@@ -85,6 +85,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   <img align="left" alt="JWT" height="42px"
   src="https://jwt.io/img/pic_logo.svg">
 </a>
+<br/>
+<br/>
 
 <br>
 
