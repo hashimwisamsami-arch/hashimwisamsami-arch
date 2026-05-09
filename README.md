@@ -110,6 +110,35 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 </a>
 
 <br><br>
+## 🧰 Tools
+
+<a href="https://www.docker.com/" target="_blank">
+  <img align="left" alt="Docker" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img align="left" alt="GitHub" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+  <img align="left" alt="Postman" height="42px"
+  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img align="left" alt="VS Code" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+  <img align="left" alt="Linux" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+</a>
+
+<br><br>
+
 
 <br>
 
