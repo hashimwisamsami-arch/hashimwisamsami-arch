@@ -92,6 +92,25 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br><br>
 
+## 🗄️ Databases
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img align="left" alt="MongoDB" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+  <img align="left" alt="PostgreSQL" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img align="left" alt="MySQL" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</a>
+
+<br><br>
+
 <br>
 
 
