@@ -1,8 +1,5 @@
 ## Hey 👋, I'm Hashim Wisam!
 
-<a href='https://github.com/hashimwisamsami-arch'><img alt="hashim" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
-
-
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
