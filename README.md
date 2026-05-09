@@ -17,7 +17,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🔨 Languages and Tools:
 
-
+##Frontend:
 
 <a href="https://nextjs.org/" target="_blank">
   <img align="left" alt="Next.js" height="42px"
@@ -26,7 +26,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <a href="https://tailwindcss.com/" target="_blank">
   <img align="left" alt="Tailwind CSS" height="42px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
 </a>
 
 <a href="https://redux.js.org/" target="_blank">
