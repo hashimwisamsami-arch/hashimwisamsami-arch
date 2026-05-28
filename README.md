@@ -1,3 +1,24 @@
+<!-- Social Media Links -->
+<div align="center">
+  <a href="https://www.instagram.com/nywtrwnhashm?igsh=MW0xOW42eGp6M3lteQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/share/1E4LSxYCBr/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/UnkNwnPlr" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  &nbsp;
+  <a href="tel:+9647836891260">
+    <img src="https://img.shields.io/badge/Phone-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+</div>
+
+<br/>
+
 ## Hey 👋, I'm Hashim Wisam!
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
@@ -8,7 +29,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **E-commerce website**
+- 🔭 &nbsp; I'm currently working on **E-commerce website**
 - 🤝 &nbsp;I am eager to join a professional team where I can improve my skills, gain experience, and grow as a developer.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hashimwisamsami-arch)
 - 📝 &nbsp; I am building and improving my professional resume.
@@ -110,6 +131,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 </a>
 
 <br><br>
+
 ## 🧰 Tools
 
 <a href="https://www.docker.com/" target="_blank">
@@ -132,12 +154,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </a>
 
-
 <br><br>
 
-
 <br>
-
 
 ### 📊 Github Stats
 
@@ -148,5 +167,3 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 </a>
 <br>
-
-
