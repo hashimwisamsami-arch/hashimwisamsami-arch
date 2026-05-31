@@ -29,7 +29,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I'm currently working on **E-commerce website**
+- 🔭 &nbsp; I'm currently working on **My CV**
 - 🤝 &nbsp;I am eager to join a professional team where I can improve my skills, gain experience, and grow as a developer.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hashimwisamsami-arch)
 - 📝 &nbsp; I am building and improving my professional resume.
