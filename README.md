@@ -13,7 +13,7 @@
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/hashim-wisam-sami-085217415">
-    <img src="https://img.shields.io/badge/Linkedin-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+    <img src="https://img.shields.io/badge/Linkedin-%2325D366.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin"/>
   </a>
 </div>
 
