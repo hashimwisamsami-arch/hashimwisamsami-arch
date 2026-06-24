@@ -12,9 +12,9 @@
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/hashim-wisam-sami-085217415">
-    <img src="https://img.shields.io/badge/Linkedin-%2325D366.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin"/>
-  </a>
+ <a href="https://www.linkedin.com/in/hashim-wisam-sami-085217415" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </div>
 
 <br/>
