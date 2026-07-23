@@ -134,11 +134,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ## 🧰 Tools
 
-<a href="https://www.docker.com/" target="_blank">
-  <img align="left" alt="Docker" height="42px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-</a>
-
 <a href="https://github.com/" target="_blank">
   <img align="left" alt="GitHub" height="42px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
