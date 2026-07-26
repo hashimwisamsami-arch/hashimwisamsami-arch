@@ -40,9 +40,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ## 🎨 Frontend Stack
 
-<a href="https://nextjs.org/" target="_blank">
-  <img align="left" alt="Next.js" height="42px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+<a href="https://react.dev/" target="_blank">
+  <img align="left" alt="React" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </a>
 
 <a href="https://tailwindcss.com/" target="_blank">
@@ -50,14 +50,14 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
 </a>
 
-<a href="https://redux.js.org/" target="_blank">
-  <img align="left" alt="Redux" height="42px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img align="left" alt="JavaScript" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </a>
 
-<a href="https://zustand-demo.pmnd.rs/" target="_blank">
-  <img align="left" alt="Zustand" height="42px"
-  src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/favicon.ico">
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img align="left" alt="TypeScript" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -70,18 +70,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </a>
 
-<a href="https://www.framer.com/motion/" target="_blank">
-  <img align="left" alt="Framer Motion" height="42px"
-  src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg">
-</a>
-
 <br><br>
 
 ---
 
 ## ⚙️ Backend Stack
 
-<a href="https://nodejs.org" target="_blank">
+<a href="https://nodejs.org/" target="_blank">
   <img align="left" alt="Node.js" height="42px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </a>
@@ -91,27 +86,14 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
 </a>
 
-<a href="https://www.prisma.io/" target="_blank">
-  <img align="left" alt="Prisma" height="42px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
-</a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank">
   <img align="left" alt="REST API" height="42px"
   src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png">
 </a>
 
-<a href="https://next-auth.js.org/" target="_blank">
-  <img align="left" alt="NextAuth" height="42px"
-  src="https://next-auth.js.org/img/logo/logo-sm.png">
-</a>
-
-<a href="https://jwt.io/" target="_blank">
-  <img align="left" alt="JWT" height="42px"
-  src="https://jwt.io/img/pic_logo.svg">
-</a>
-
 <br><br>
+
+---
 
 ## 🗄️ Databases
 
@@ -120,19 +102,49 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </a>
 
-<a href="https://www.postgresql.org/" target="_blank">
-  <img align="left" alt="PostgreSQL" height="42px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-</a>
-
 <a href="https://www.mysql.com/" target="_blank">
   <img align="left" alt="MySQL" height="42px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </a>
 
+<a href="https://www.postgresql.org/" target="_blank">
+  <img align="left" alt="PostgreSQL" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+</a>
+
 <br><br>
 
+---
+
+## 💻 Programming Languages & CS
+
+<a href="https://isocpp.org/" target="_blank">
+  <img align="left" alt="C++" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+</a>
+
+<a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+  <img align="left" alt="C#" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img align="left" alt="Python" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</a>
+
+<br><br>
+
+> **Core Concepts:** Data Structures & Algorithms • Object-Oriented Programming (OOP)
+
+---
+
 ## 🧰 Tools
+
+<a href="https://git-scm.com/" target="_blank">
+  <img align="left" alt="Git" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</a>
 
 <a href="https://github.com/" target="_blank">
   <img align="left" alt="GitHub" height="42px"
@@ -144,10 +156,25 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
 </a>
 
+<a href="https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client" target="_blank">
+  <img align="left" alt="Thunder Client" height="42px"
+  src="https://raw.githubusercontent.com/rangav/thunder-client-support/main/images/thunder-icon.png">
+</a>
+
 <a href="https://code.visualstudio.com/" target="_blank">
   <img align="left" alt="VS Code" height="42px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </a>
+
+<br><br>
+
+---
+
+## 🤝 Soft Skills
+
+- 🚀 Fast Learner
+- 🧩 Problem Solving
+- 👥 Collaboration
 
 <br><br>
 
