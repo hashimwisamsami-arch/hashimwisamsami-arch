@@ -93,7 +93,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <a href="https://jwt.io/" target="_blank">
   <img align="left" alt="JWT" height="42px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtokens/jsonwebtokens-original.svg">
+  src="https://jwt.io/img/pic_logo.svg">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank">
