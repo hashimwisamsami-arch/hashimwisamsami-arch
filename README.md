@@ -91,6 +91,11 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
 </a>
 
+<a href="https://jwt.io/" target="_blank">
+  <img align="left" alt="JWT" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtokens/jsonwebtokens-original.svg">
+</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank">
   <img align="left" alt="REST API" height="42px"
   src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png">
