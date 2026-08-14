@@ -45,6 +45,11 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </a>
 
+<a href="https://nextjs.org/" target="_blank">
+  <img align="left" alt="Next.js" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+</a>
+
 <a href="https://tailwindcss.com/" target="_blank">
   <img align="left" alt="Tailwind CSS" height="42px"
   src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
@@ -100,6 +105,11 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://www.mongodb.com/" target="_blank">
   <img align="left" alt="MongoDB" height="42px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+</a>
+
+<a href="https://www.prisma.io/" target="_blank">
+  <img align="left" alt="Prisma" height="42px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
